@@ -16,6 +16,7 @@ const Index = () => {
     <Layout>
       <Head>
         <title>Fauzan Gifari</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <MobileHeader />
       <Header />

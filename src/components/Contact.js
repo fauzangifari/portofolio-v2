@@ -137,7 +137,7 @@ const Contact = () => {
                       <div className="short">
                         <h3>Instagram</h3>
                         <span>
-                          <a href="https://instagram.com/fauzangfri" target="_blank">@fauzangfri</a>
+                          <a href="https://instagram.com/fauzangfri" target="_blank" without rel="noreferrer">@fauzangfri</a>
                         </span>
                       </div>
                     </div>
@@ -150,7 +150,7 @@ const Contact = () => {
                       <div className="short">
                         <h3>Github</h3>
                         <span>
-                          <a href="https://github.com/fauzangifari" target="_blank">fauzangifari</a>
+                          <a href="https://github.com/fauzangifari" target="_blank" without rel="noreferrer">fauzangifari</a>
                         </span>
                       </div>
                     </div>
