@@ -18,7 +18,7 @@ const Home = () => {
           <div className="content">
             <div className="center">
               <div className="inner">
-                <h3 className="hello">HELLO I'M</h3>
+                <h3 className="hello">HELLO I&apos;M</h3>
                 <h3 className="name">
                   {homeData.firstName} {homeData.lastName}
                 </h3>

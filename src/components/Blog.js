@@ -99,7 +99,7 @@ const Blog = () => {
               </ul>
             </div>
             <div className="devman_tm_button">
-              <a className="viewall" href="https://medium.com/@fauzan.gifari30" target="_blank">
+              <a className="viewall" href="https://medium.com/@fauzan.gifari30" target="_blank" rel="noreferrer">
                 View All Blogs
               </a>
             </div>
